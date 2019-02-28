@@ -1,0 +1,173 @@
+.padding{
+	padding: 0; 
+	margin: 0; 
+}
+a{
+	color: #009688; 
+}
+a:hover{
+	color: #F44336; 
+}
+.form-inline{
+	width: 50%; 
+	height: 100px;
+		
+}
+.form-inline input{
+	width: 100%;
+	padding: 15px;
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+#input_bar{
+	width: 500px; 
+}
+.btn{
+	margin: 0; 
+	width: 200px; 
+	height: 60px; 
+}
+.navbar{
+	list-style: none; 
+}
+.navbar a{ 
+	text-decoration: underline; 
+	text-transform: uppercase; 
+	font-size: 19px; 
+
+
+}
+#myCatégorie2{
+	display: none; 
+}
+#myCatégorie3{
+	display: none; 
+}
+.icon01{
+	width: 100%; 
+	height: 220px; 
+	font-size: 1.2rem;
+	padding: 25px;
+	text-align: center;
+	margin-right: 5px;
+	transition: 0.3s;  
+
+}
+.icon01:hover{
+	transform: translate(10px);
+	transform: scale(1.1);
+	transition: 0.1s 0.2s;
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	/* background-color: #ff7979; */
+	background: #2c3e50;
+	color: #fff;
+}
+.icon01:hover a{
+	color: #fff;
+}
+
+
+.icon01 a img{
+	width: 100%;
+	height:100px;
+	margin-bottom: 25px;
+	border:1px solid #252954; 
+}
+.icon02{
+	width: 90%; 
+	height: 220px; 
+	font-size: 1.2rem;
+	padding: 5px;
+	text-align: center;
+	margin-right: 5px;
+	transition: 0.3s;  
+
+}
+.icon02:hover{
+	transform: translate(10px);
+	transform: scale(1.1);
+	transition: 0.1s 0.2s;
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	/* background-color: #ff7979; */
+	background: #2c3e50;
+	color: #fff;
+}
+.icon02:hover a{
+	color: #fff;
+}
+
+
+.icon02 a img{
+	width: 100%;
+	height:100px;
+	margin-bottom: 25px; 
+	border:1px solid #252954;
+}
+.description a{
+	color: #000; 
+}
+.card{
+	margin-bottom: 15px;
+}
+.card-img{
+	width: 100%; 
+	height: 140px;
+	border: 1px solid #252954;  
+}
+.card-body{
+	height: 400px;
+	overflow: hidden; 
+}
+footer{
+	background: #2c3e50;
+	color: #fff;
+	padding: 10px;  
+}
+
+
+footer .nav-link{
+	 
+	text-decoration: none; 
+	color: #fff; 
+}
+footer .fa{
+  padding: 15px; 
+  font-size: 35px; 
+  color: #fff; 
+}
+footer .fa:hover{
+  text-decoration: none;
+  color: #d5d5d5;  
+}
+
+footer .fa-facebook:hover{
+  text-decoration: none;
+  color: #4267b2;  
+}
+footer .fa-twitter:hover{
+  text-decoration: none;
+  color: #4ab3f4;  
+}
+footer .fa-google:hover{
+  text-decoration: none;
+  color: #d5d5d5;  
+}
+footer .fa-youtube:hover{
+  text-decoration: none;
+  color: #ff0000;  
+}
+footer .fa-linkedin:hover{
+  text-decoration: none;
+  color: #0077B5;  
+}
+footer .ft-a{
+	color: #fff;
+	font-size: 24px;  
+}
+
+
+
+
